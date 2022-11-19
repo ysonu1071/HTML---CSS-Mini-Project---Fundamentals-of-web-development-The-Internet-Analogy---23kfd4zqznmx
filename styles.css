@@ -1,1 +1,109 @@
+*{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.parallax1{
+    background-image: url("https://img.freepik.com/premium-photo/view-manhattan-sunset-new-york-city_268835-463.jpg?w=2000");
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.7;
 
+}
+
+.parallax1 span{
+    background-color: rgb(46, 43, 43);
+    color: white;
+    font-size: 40px;
+    padding: 10px;
+    letter-spacing: 2px;
+}
+.parallax4 span{
+    background-color: rgb(46, 43, 43);
+    color: white;
+    font-size: 40px;
+    padding: 10px;
+    letter-spacing: 2px;
+}
+
+.parallax2{
+    background-image: url("https://img.freepik.com/premium-photo/new-york-city-skyline-with-skyscrapers-sunset_191555-6.jpg?w=2000");
+    min-height: 400px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.7;
+
+}
+
+.parallax3{
+    background-image: url("https://thumbs.dreamstime.com/b/brooklyn-bridge-manhattan-sunset-new-york-orange-tone-35426328.jpg");
+    min-height: 350px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.7;
+
+}
+
+.parallax4{
+    background-image: url("https://img.freepik.com/premium-photo/view-manhattan-sunset-new-york-city_268835-463.jpg?w=2000");
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.7;
+
+}
+
+.section1{
+    padding: 50px;
+    text-align: center;
+    background-color: rgb(236, 236, 236);
+    color: rgb(61, 58, 58);
+}
+.section2{
+    padding: 50px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    opacity: 0.7;
+}
+.section3{
+    padding: 50px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    opacity: 0.7;
+}
+.section4{
+    padding: 50px;
+    text-align: center;
+}
+h2{
+    padding: 20px;
+
+}
+
+span{
+    letter-spacing: 3px;
+    color: white;
+    font-size: 30px;
+}
